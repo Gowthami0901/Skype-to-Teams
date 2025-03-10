@@ -44,10 +44,5 @@ This guide provides a detailed step-by-step process for migrating from Skype to 
 3. Send the message – it will also be visible in Skype (if the contact is still using Skype).
 4. Start voice or video calls within Teams to test functionality.
 
-## Additional Notes
-- The **Teams Insider Program** allows users to get early access to Microsoft updates, which may improve migration features.
-- Ensure all users in your organization have installed and configured Teams before decommissioning Skype.
-- If you experience issues, refer to [Microsoft’s support documentation](https://support.microsoft.com/) or contact your IT department.
-
 By following these steps, you can successfully migrate from Skype to Microsoft Teams and continue seamless communication.
 
