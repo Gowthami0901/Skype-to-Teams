@@ -45,4 +45,3 @@ This guide provides a detailed step-by-step process for migrating from Skype to 
 4. Start voice or video calls within Teams to test functionality.
 
 By following these steps, you can successfully migrate from Skype to Microsoft Teams and continue seamless communication.
-
